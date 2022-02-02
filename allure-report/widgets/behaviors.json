@@ -1,0 +1,15 @@
+{
+  "total" : 7,
+  "items" : [ {
+    "uid" : "d0d2e722a040e60a2af84c3dd9c65f7c",
+    "name" : "Banner Title",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

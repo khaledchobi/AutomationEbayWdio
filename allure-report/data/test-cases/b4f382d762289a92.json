@@ -1,0 +1,50 @@
+{
+  "uid" : "b4f382d762289a92",
+  "name" : "should click on the shop button and verify the new url",
+  "fullName" : "Watches Page.should click on the shop button and verify the new url",
+  "historyId" : "9e0d8c99ecd85d83cf823528d009270f",
+  "time" : {
+    "start" : 1643561762478,
+    "stop" : 1643561762478,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the shop button and verify the new url"
+  }, {
+    "name" : "package",
+    "value" : "Watches Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4f382d762289a92.json",
+  "parameterValues" : [ ]
+}

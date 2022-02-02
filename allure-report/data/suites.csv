@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 30 11:57:43 EST 2022","Sun Jan 30 11:57:43 EST 2022","1","","Watches Page","","Watches Page","should verify the watches category list","should verify the watches category list",""
+"passed","Sun Jan 30 11:57:38 EST 2022","Sun Jan 30 11:57:43 EST 2022","5131","","Watches Page","","Watches Page","should go to watches page link","should go to watches page link",""
+"skipped","Sun Jan 30 11:57:45 EST 2022","Sun Jan 30 11:57:45 EST 2022","0","","Watches Page","","Watches Page","should contain link on banner button and verify its clickable","should contain link on banner button and verify its clickable",""
+"skipped","Sun Jan 30 11:57:43 EST 2022","Sun Jan 30 11:57:43 EST 2022","0","","Watches Page","","Watches Page","should show the banner container","should show the banner container",""
+"passed","Sun Jan 30 11:57:43 EST 2022","Sun Jan 30 11:57:45 EST 2022","2289","","Watches Page","","Watches Page","should show the banner title","should show the banner title",""
+"skipped","Sun Jan 30 11:57:43 EST 2022","Sun Jan 30 11:57:43 EST 2022","0","","Watches Page","","Watches Page","should get text a menu link - JS Function","should get text a menu link - JS Function",""
+"skipped","Sun Jan 30 11:57:45 EST 2022","Sun Jan 30 11:57:45 EST 2022","0","","Watches Page","","Watches Page","should click on the shop button and verify the new url","should click on the shop button and verify the new url",""

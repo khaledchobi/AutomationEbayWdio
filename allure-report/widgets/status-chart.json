@@ -1,0 +1,71 @@
+[ {
+  "uid" : "e6d2f2873a1700d4",
+  "name" : "should verify the watches category list",
+  "time" : {
+    "start" : 1643561863284,
+    "stop" : 1643561863285,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "424d161e82e0f2ab",
+  "name" : "should go to watches page link",
+  "time" : {
+    "start" : 1643561858151,
+    "stop" : 1643561863282,
+    "duration" : 5131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "170628397dcb92e5",
+  "name" : "should contain link on banner button and verify its clickable",
+  "time" : {
+    "start" : 1643561865575,
+    "stop" : 1643561865575,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ff4868c212078315",
+  "name" : "should show the banner container",
+  "time" : {
+    "start" : 1643561863285,
+    "stop" : 1643561863285,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2ed209174f6e1878",
+  "name" : "should show the banner title",
+  "time" : {
+    "start" : 1643561863286,
+    "stop" : 1643561865575,
+    "duration" : 2289
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dbea3ee8314d4d52",
+  "name" : "should get text a menu link - JS Function",
+  "time" : {
+    "start" : 1643561863286,
+    "stop" : 1643561863286,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f1d6d2178ef04b70",
+  "name" : "should click on the shop button and verify the new url",
+  "time" : {
+    "start" : 1643561865576,
+    "stop" : 1643561865576,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

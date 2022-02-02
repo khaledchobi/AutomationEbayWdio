@@ -1,0 +1,50 @@
+{
+  "uid" : "db93db2648f60af4",
+  "name" : "should contain link on banner button and verify its clickable",
+  "fullName" : "Watches Page.should contain link on banner button and verify its clickable",
+  "historyId" : "c2e45da10b61f4e79ad91463b069a32",
+  "time" : {
+    "start" : 1643561762478,
+    "stop" : 1643561762478,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should contain link on banner button and verify its clickable"
+  }, {
+    "name" : "package",
+    "value" : "Watches Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db93db2648f60af4.json",
+  "parameterValues" : [ ]
+}

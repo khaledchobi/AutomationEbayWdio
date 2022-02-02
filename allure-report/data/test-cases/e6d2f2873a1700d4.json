@@ -1,0 +1,103 @@
+{
+  "uid" : "e6d2f2873a1700d4",
+  "name" : "should verify the watches category list",
+  "fullName" : "Watches Page.should verify the watches category list",
+  "historyId" : "cd5975bafb1f65b7370fb65e219f74ec",
+  "time" : {
+    "start" : 1643561863284,
+    "stop" : 1643561863285,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1643561863284,
+        "stop" : 0,
+        "duration" : -1643561863284
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the watches category list"
+  }, {
+    "name" : "package",
+    "value" : "Watches Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1aa94844c4b37c0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643561751555,
+        "stop" : 1643561751556,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ef5239077e5d5e8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643561477821,
+        "stop" : 1643561480338,
+        "duration" : 2517
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6d2f2873a1700d4.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

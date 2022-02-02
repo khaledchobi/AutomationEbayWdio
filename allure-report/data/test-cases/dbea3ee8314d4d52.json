@@ -1,0 +1,70 @@
+{
+  "uid" : "dbea3ee8314d4d52",
+  "name" : "should get text a menu link - JS Function",
+  "fullName" : "Watches Page.should get text a menu link - JS Function",
+  "historyId" : "71c36748c9a3cd3d6722a52e2c44d929",
+  "time" : {
+    "start" : 1643561863286,
+    "stop" : 1643561863286,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get text a menu link - JS Function"
+  }, {
+    "name" : "package",
+    "value" : "Watches Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e81954d3dfe3e336",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1643561751556,
+        "stop" : 1643561751556,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d33cf74de522fa6f",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1643561480345,
+        "stop" : 1643561480345,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbea3ee8314d4d52.json",
+  "parameterValues" : [ ]
+}

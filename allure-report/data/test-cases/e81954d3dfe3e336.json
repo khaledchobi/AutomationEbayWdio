@@ -1,0 +1,50 @@
+{
+  "uid" : "e81954d3dfe3e336",
+  "name" : "should get text a menu link - JS Function",
+  "fullName" : "Watches Page.should get text a menu link - JS Function",
+  "historyId" : "71c36748c9a3cd3d6722a52e2c44d929",
+  "time" : {
+    "start" : 1643561751556,
+    "stop" : 1643561751556,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get text a menu link - JS Function"
+  }, {
+    "name" : "package",
+    "value" : "Watches Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e81954d3dfe3e336.json",
+  "parameterValues" : [ ]
+}

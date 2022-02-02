@@ -1,0 +1,128 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Watches Page",
+    "children" : [ {
+      "name" : "should go to watches page link",
+      "uid" : "424d161e82e0f2ab",
+      "parentUid" : "8c12995c55576fb1697f83b794e6d1e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643561858151,
+        "stop" : 1643561863282,
+        "duration" : 5131
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "should verify the watches category list",
+      "uid" : "e6d2f2873a1700d4",
+      "parentUid" : "8c12995c55576fb1697f83b794e6d1e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643561863284,
+        "stop" : 1643561863285,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "should show the banner container",
+      "uid" : "ff4868c212078315",
+      "parentUid" : "8c12995c55576fb1697f83b794e6d1e9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1643561863285,
+        "stop" : 1643561863285,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should show the banner title",
+      "uid" : "2ed209174f6e1878",
+      "parentUid" : "8c12995c55576fb1697f83b794e6d1e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643561863286,
+        "stop" : 1643561865575,
+        "duration" : 2289
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "should get text a menu link - JS Function",
+      "uid" : "dbea3ee8314d4d52",
+      "parentUid" : "8c12995c55576fb1697f83b794e6d1e9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1643561863286,
+        "stop" : 1643561863286,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should contain link on banner button and verify its clickable",
+      "uid" : "170628397dcb92e5",
+      "parentUid" : "8c12995c55576fb1697f83b794e6d1e9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1643561865575,
+        "stop" : 1643561865575,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should click on the shop button and verify the new url",
+      "uid" : "f1d6d2178ef04b70",
+      "parentUid" : "8c12995c55576fb1697f83b794e6d1e9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1643561865576,
+        "stop" : 1643561865576,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8c12995c55576fb1697f83b794e6d1e9"
+  } ]
+}

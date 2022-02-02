@@ -1,0 +1,70 @@
+{
+  "uid" : "ff4868c212078315",
+  "name" : "should show the banner container",
+  "fullName" : "Watches Page.should show the banner container",
+  "historyId" : "59d642c459ee6aa22b1d775e7b79744b",
+  "time" : {
+    "start" : 1643561863285,
+    "stop" : 1643561863285,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show the banner container"
+  }, {
+    "name" : "package",
+    "value" : "Watches Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "83e0cd7b205b8094",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1643561751556,
+        "stop" : 1643561751556,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1914bf86638b602e",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1643561480345,
+        "stop" : 1643561480345,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff4868c212078315.json",
+  "parameterValues" : [ ]
+}
