@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Watches Page" timestamp="2022-02-03T16:36:57" time="7.512" tests="7" failures="0" errors="0" skipped="4">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Watches Page"/>
+      <property name="capabilities" value="chrome.97_0_4692_99.macosx"/>
+      <property name="file" value="./test/specs/watches.js"/>
+    </properties>
+    <testcase classname="chrome.97_0_4692_99.macosx.Watches_Page" name="should go to watches page link" time="5.083">
+      <system-out><![CDATA[
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/window/maximize - {}
+RESULT: {"url":"https://www.ebay.com/"}
+RESULT: {}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/elements - {"using":"css selector","value":".hl-cat-nav__js-tab a[href*=\"Fashion\"]"}
+RESULT: {"using":"css selector","value":".hl-cat-nav__js-tab a[href*=\"Fashion\"]"}
+COMMAND: GET /session/1e91b19f233cfe5852da0ee67bcdd7be/element/1a14c862-d907-4722-8a85-6699fa07ba79/rect - {}
+RESULT: {}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/execute/sync - {"script":"return (function () {\n        return { scrollX: this.pageXOffset, scrollY: this.pageYOffset };\n    }).apply(null, arguments)","args":[]}
+RESULT: {"script":"return (function () {\n        return { scrollX: this.pageXOffset, scrollY: this.pageYOffset };\n    }).apply(null, arguments)","args":[]}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/actions - {"actions":[{"type":"pointer","id":"finger1","parameters":{"pointerType":"mouse"},"actions":[{"type":"pointerMove","duration":0,"x":543,"y":127}]}]}
+RESULT: {"actions":[{"type":"pointer","id":"finger1","parameters":{"pointerType":"mouse"},"actions":[{"type":"pointerMove","duration":0,"x":543,"y":127}]}]}
+COMMAND: DELETE /session/1e91b19f233cfe5852da0ee67bcdd7be/actions - {}
+RESULT: {}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/element - {"using":"css selector","value":".hl-cat-nav__sub-cat-col a[href*=\"Watches-Parts\"]"}
+RESULT: {"using":"css selector","value":".hl-cat-nav__sub-cat-col a[href*=\"Watches-Parts\"]"}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/element/a3191257-e689-4960-ad5e-e54db766540a/click - {}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/execute/sync - {"script":"return (function isElementDisplayed(element) {\n    function nodeIsElement(node) {\n        if (!node) {\n            return false;\n        }\n        switch (node.nodeType) {\n            case Node.ELEMEN ... (7762 more bytes)","args":[{"element-6066-11e4-a52e-4f735466cecf":"a3191257-e689-4960-ad5e-e54db766540a","ELEMENT":"a3191257-e689-4960-ad5e-e54db766540a"}]}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.97_0_4692_99.macosx.Watches_Page" name="should verify the watches category list" time="0.001">
+      <system-out><![CDATA[
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/window/maximize - {}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.97_0_4692_99.macosx.Watches_Page" name="should show the banner container" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.97_0_4692_99.macosx.Watches_Page" name="should get text a menu link JS Function" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.97_0_4692_99.macosx.Watches_Page" name="should show the banner title" time="2.371">
+      <system-out><![CDATA[
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/window/maximize - {}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/element - {"using":"css selector","value":"section.b-promobanner:nth-child(3) > div:nth-child(1) > h2:nth-child(1)"}
+RESULT: {"script":"return (function isElementDisplayed(element) {\n    function nodeIsElement(node) {\n        if (!node) {\n            return false;\n        }\n        switch (node.nodeType) {\n            case Node.ELEMEN ... (7762 more bytes)","args":[{"element-6066-11e4-a52e-4f735466cecf":"a3191257-e689-4960-ad5e-e54db766540a","ELEMENT":"a3191257-e689-4960-ad5e-e54db766540a"}]}
+RESULT: {}
+RESULT: {}
+RESULT: {"using":"css selector","value":"section.b-promobanner:nth-child(3) > div:nth-child(1) > h2:nth-child(1)"}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/elements - {"using":"css selector","value":"section.b-promobanner:nth-child(3) > div:nth-child(1) > h2:nth-child(1)"}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/execute/sync - {"script":"return (function isElementDisplayed(element) {\n    function nodeIsElement(node) {\n        if (!node) {\n            return false;\n        }\n        switch (node.nodeType) {\n            case Node.ELEMEN ... (7762 more bytes)","args":[{"element-6066-11e4-a52e-4f735466cecf":"a3191257-e689-4960-ad5e-e54db766540a","ELEMENT":"a3191257-e689-4960-ad5e-e54db766540a"}]}
+RESULT: {}
+RESULT: {"using":"css selector","value":"section.b-promobanner:nth-child(3) > div:nth-child(1) > h2:nth-child(1)"}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/element - {"using":"css selector","value":"section.b-promobanner:nth-child(3) > div:nth-child(1) > h2:nth-child(1)"}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/element - {"using":"css selector","value":".hl-cat-nav__sub-cat-col a[href*=\"Watches-Parts\"]"}
+RESULT: {"using":"css selector","value":"section.b-promobanner:nth-child(3) > div:nth-child(1) > h2:nth-child(1)"}
+COMMAND: GET /session/1e91b19f233cfe5852da0ee67bcdd7be/element/000c9ef0-db4f-4907-b279-f3f8b641fbe6/text - {}
+RESULT: {"using":"css selector","value":".hl-cat-nav__sub-cat-col a[href*=\"Watches-Parts\"]"}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/element - {"using":"css selector","value":".hl-cat-nav__sub-cat-col a[href*=\"Watches-Parts\"]"}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.97_0_4692_99.macosx.Watches_Page" name="should contain link on banner button and verify its clickable" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.97_0_4692_99.macosx.Watches_Page" name="should click on the shop button and verify the new url" time="0">
+      <skipped/>
+      <system-out><![CDATA[
+RESULT: {"using":"css selector","value":".hl-cat-nav__sub-cat-col a[href*=\"Watches-Parts\"]"}
+COMMAND: DELETE /session/1e91b19f233cfe5852da0ee67bcdd7be - {}
+COMMAND: POST /session/1e91b19f233cfe5852da0ee67bcdd7be/element - {"using":"css selector","value":".hl-cat-nav__sub-cat-col a[href*=\"Watches-Parts\"]"}
+RESULT: {}
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
